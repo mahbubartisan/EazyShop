@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "bladeFormatter.format.sortHtmlAttributes": "alphabetical",
+    "bladeFormatter.format.sortTailwindcssClasses": true
+}
